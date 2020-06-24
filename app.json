@@ -1,0 +1,7 @@
+{
+  "name": "task",
+  "displayName": "task",
+  "android": {
+    "name": "com.igor.youappname"
+  }
+}
